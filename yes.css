@@ -1,0 +1,46 @@
+*{
+     margin: 0px;
+     padding: 0px;
+}
+div{
+     height: 800px;
+     width: 900px;
+     background-color: lightgray;
+     align-items: center;
+     /* margin: 50px; */
+     /* padding: 50px; */
+     transform: translate(100px, 100px);
+     /* transform: translateY(100px); */
+     font-family: sans-serif;
+     display: inline-flex;
+}
+#first{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+}
+#second{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+}
+#third{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+}
+#fourth{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+}
+#fifth{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+}
+#sixth{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+}

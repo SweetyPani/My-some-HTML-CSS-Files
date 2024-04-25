@@ -1,0 +1,21 @@
+*{
+     padding: 0px;
+     margin: 0px;
+}
+#xyz{
+     background-color: burlywood;
+     height: 600px;
+     width: 650px;
+     /* display: flex; */
+     display: grid;
+     grid-auto-columns: minmax (15rem, auto);
+     /* grid-template-rows:  30px 30px; */
+     grid-template-columns: 50px 50px 50px;
+}
+.abcd{
+     height: 70px;
+     width: 70px;
+     background-color: dodgerblue;
+     border-left: 10px solid darkmagenta;
+     border-radius: 5px;
+}
